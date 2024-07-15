@@ -177,5 +177,23 @@
     "email": "yudi@gmail.com",
     "password": "wwwwww",
     "sports": []
+  },
+  {
+    "email": "danbborges@gmail.com",
+    "password": "wwwwww",
+    "sports": [
+      {
+        "sport": "Ciclismo de Estrada - Contra Relógio Individual",
+        "inicio": "2024-07-27",
+        "termino": "2024-08-11",
+        "local": "Invalides"
+      },
+      {
+        "sport": "Maratona de Natação",
+        "inicio": "2024-07-27",
+        "termino": "2024-08-05",
+        "local": "PontAlexandre III"
+      }
+    ]
   }
 ]

@@ -93,7 +93,17 @@
 
 <h3>🖥️ Interface</h3>
 
-<p>Em construção...</p>
+### Tela de Cadastro
+![Tela de Cadastro](imagensReadme/cadastro.png)
+Descrição: Interface para cadastro de novos usuários.
+
+### Tela de Login
+![Tela de Login](imagensReadme/login.png)
+Descrição: Interface para login de usuários existentes.
+
+### Tela de Seleção de Modalidades
+![Tela de Seleção de Modalidades](imagensReadme/modalidades.png)
+Descrição: Interface para seleção de modalidades esportivas.
 
 <h3>🚀 Execute o Projeto</h3>
 
